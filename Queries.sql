@@ -1,6 +1,6 @@
 -- 3.1.1 
 SELECT count(bor.borrowed_id), s.name FROM borrowings bor INNER JOIN school s on s.operator_id = bor.operator_id group by s.name
-
+-- adfadsa
 
 
 
